@@ -91,5 +91,5 @@ Berdasarkan hasil pemrosesan dan analisis data:
 │   ├── data_processing_flow.png        <- Diagram alur pemrosesan data
 │   └── customer_lifecycle_flow.png     <- Diagram alur lifecycle pelanggan
 │
-└── docs/
+└── Report & Presentation/
     └── crm_customer_analytics_report.pdf <- Slide laporan presentasi eksekutif
